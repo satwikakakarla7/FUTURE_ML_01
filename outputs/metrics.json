@@ -2,7 +2,7 @@
   "model": "RandomForestRegressor",
   "train_rows": 415,
   "test_rows": 104,
-  "MAE": 2.951,
-  "RMSE": 3.63,
+  "MAE": 2.949,
+  "RMSE": 3.627,
   "MAPE_percent": 2.55
 }
